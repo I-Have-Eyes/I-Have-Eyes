@@ -4,6 +4,7 @@
 
 //- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is through Discord (eyes#6338)
+- Curentlly working on a 2D puzzle-platformer game on Unity
 
 <!---
 I-Have-Eyes/I-Have-Eyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
